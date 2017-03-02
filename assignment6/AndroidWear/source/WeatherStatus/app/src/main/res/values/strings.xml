@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather Status</string>
+    <string name="hello_round">Track Temperature</string>
+    <string name="hello_square">Hello Square World!</string>
+</resources>
